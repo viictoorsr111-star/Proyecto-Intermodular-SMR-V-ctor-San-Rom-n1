@@ -1,2 +1,1 @@
-# Proyecto-Intermodular-SMR-V-ctor-San-Rom-n1
-Proyecto intermodular de Víctor San Román
+He creado una red básica para que mi empresa pueda trabajar correctamente
